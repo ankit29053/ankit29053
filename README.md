@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there !
+I am Ankit,
+Currently studying at IIT KGP Mechanical Engineering enrolled in its 4 year B.Tech course.
+I am currently learning Blender.
+Also I am an Astrophile. I have a great great zeal in learning about exospace, exolifeform, exoplanets where life is possible and teh greatest question of all time: "Are we alone?" ( I don't think so! )
+Reach me at : gamesacc29053@gmail.com
+
 
 <!--
 **ankit29053/ankit29053** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
