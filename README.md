@@ -1,8 +1,8 @@
 ## Hi there !
-I am Ankit,
-Currently studying at IIT KGP Mechanical Engineering enrolled in its 4 year B.Tech course.
-I am currently learning Blender.
-Also I am an Astrophile. I have a great great zeal in learning about exospace, exolifeform, exoplanets where life is possible and teh greatest question of all time: "Are we alone?" ( I don't think so! )
+I am Ankit, currently studying at IIT KGP in the Mechanical Engineering B.Tech 4 year course.
+I am learning Blender and Ethical Hacking as of now.
+Also I am an Astrophile. 
+I have a great great zeal in learning about exospace, exolifeform, exoplanets where life is possible and teh greatest question of all time: "Are we alone?" ( I don't think so! )
 Reach me at : gamesacc29053@gmail.com
 
 
