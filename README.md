@@ -1,5 +1,5 @@
 ## Hi there !
-I am Ankit, currently studying at IIT KGP in the Mechanical Engineering B.Tech 4 year course.
+I am Ankit, currently studying at IIT KGP in the Mechanical Engineering B.Tech 4 year course.\n /n
 I am learning Blender and Ethical Hacking as of now.
 Also I am an Astrophile. 
 I have a great great zeal in learning about exospace, exolifeform, exoplanets where life is possible and teh greatest question of all time: "Are we alone?" ( I don't think so! )
